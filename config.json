@@ -1,0 +1,142 @@
+{
+    "apiUrl":"https://digimaria.com/digimaria/api/",
+    "loadDataLimit":20 ,
+    "imageBaseUrl":"https://digimaria.com/digimaria",
+    "androidKeypassword":"digi123",
+    "booksCoverNew":[{
+            "className":"Class 1",
+            "data": ["Aspen", "Math path", "Windows to science", "Grow Green", "Popple", "Term 1", "Term 2", "Term 3", "Semester 1", "Semester 2"]
+        },
+        {
+            "className":"Class 2",
+            "data": ["Aspen", "Math path", "Windows to science", "Grow Green", "Popple", "Term 1", "Term 2", "Term 3", "Semester 1", "Semester 2"]
+        },
+        {
+            "className":"Class 3",
+            "data": ["Aspen", "Math path", "Windows to science", "Journey", "Popple", "Term 1", "Term 2", "Term 3", "Semester 1", "Semester 2"]
+        },
+        {
+            "className":"Class 4",
+            "data": ["Aspen", "Math path", "Windows to science", "Journey", "Popple", "Term 1", "Term 2", "Term 3", "Semester 1", "Semester 2"]
+        },
+        {
+            "className":"Class 5",
+            "data": ["Aspen", "Math path", "Windows to science", "Journey", "Popple", "Term 1", "Term 2", "Term 3", "Semester 1", "Semester 2"]
+        }
+    ],
+    "booksCover":[{
+        "1":{
+            "className":"Class 1",
+            "individual":[
+                {"image":"Individual_1.jpg","name":"Aspen"},
+                {"image":"Individual_2.jpg","name":"Math path"},
+                {"image":"Individual_3.jpg","name":"Windows to science"},
+                {"image":"Individual_4.jpg","name":"Grow Green"},
+                {"image":"Individual_5.jpg","name":"Popple"},
+                {"image":"Term_1.jpg","name":"Term 1"},
+                {"image":"Term_2.jpg","name":"Term 2"},
+                {"image":"Term_3.jpg","name":"Term 3"}
+
+               
+            ],
+            "term":[
+                {"image":"Term_1.jpg","name":"Term 1"},
+                {"image":"Term_2.jpg","name":"Term 2"},
+                {"image":"Term_3.jpg","name":"Term 3"}],
+            "semester":[
+            {"image":"Semester_1.jpg","name":"Semester 1"},
+            {"image":"Semester_2.jpg","name":"Semester 2"}
+        ]}},
+        
+    
+        {"2":{
+            "className":"Class 2",
+            "individual":[
+                {"image":"Individual_1.jpg","name":"Aspen"},
+                {"image":"Individual_2.jpg","name":"Math path"},
+                {"image":"Individual_3.jpg","name":"Windows to science"},
+                {"image":"Individual_4.jpg","name":"Grow Green"},
+                {"image":"Individual_5.jpg","name":"Popple"},
+                {"image":"Term_1.jpg","name":"Term 1"},
+                {"image":"Term_2.jpg","name":"Term 2"},
+                {"image":"Term_3.jpg","name":"Term 3"}
+            ],
+            "term":[
+                {"image":"Term_1.jpg","name":"Term 1"},
+                {"image":"Term_2.jpg","name":"Term 2"},
+                {"image":"Term_3.jpg","name":"Term 3"}],
+         "semester":[
+                    {"image":"Semester_1.jpg","name":"Semester 1"},
+                    {"image":"Semester_2.jpg","name":"Semester 2"}
+                ]
+        }
+    },
+    {"3":{
+        "className":"Class 3",
+        "individual":[
+            {"image":"Individual_1.jpg","name":"Aspen"},
+            {"image":"Individual_2.jpg","name":"Math path"},
+            {"image":"Individual_3.jpg","name":"Windows to science"},
+            {"image":"Individual_4.jpg","name":"Journey"},
+            {"image":"Individual_5.jpg","name":"Popple"},
+            {"image":"Term_1.jpg","name":"Term 1"},
+            {"image":"Term_2.jpg","name":"Term 2"},
+            {"image":"Term_3.jpg","name":"Term 3"}
+        ],
+        "term":[
+            {"image":"Term_1.jpg","name":"Term 1"},
+            {"image":"Term_2.jpg","name":"Term 2"},
+            {"image":"Term_3.jpg","name":"Term 3"}],
+     "semester":[
+                {"image":"Semester_1.jpg","name":"Semester 1"},
+                {"image":"Semester_2.jpg","name":"Semester 2"}
+            ]
+    }
+},
+{"4":{
+    "className":"Class 4",
+    "individual":[
+        {"image":"Individual_1.jpg","name":"Aspen"},
+        {"image":"Individual_2.jpg","name":"Math path"},
+        {"image":"Individual_3.jpg","name":"Windows to science"},
+        {"image":"Individual_4.jpg","name":"Journey"},
+        {"image":"Individual_5.jpg","name":"Popple"},
+        {"image":"Term_1.jpg","name":"Term 1"},
+        {"image":"Term_2.jpg","name":"Term 2"},
+        {"image":"Term_3.jpg","name":"Term 3"}
+    ],
+    "term":[
+        {"image":"Term_1.jpg","name":"Term 1"},
+        {"image":"Term_2.jpg","name":"Term 2"},
+        {"image":"Term_3.jpg","name":"Term 3"}],
+ "semester":[
+            {"image":"Semester_1.jpg","name":"Semester 1"},
+            {"image":"Semester_2.jpg","name":"Semester 2"}
+        ]
+}
+},
+{"5":{
+    "className":"Class 5",
+    "individual":[
+        {"image":"Individual_1.jpg","name":"Aspen"},
+        {"image":"Individual_2.jpg","name":"Math path"},
+        {"image":"Individual_3.jpg","name":"Windows to science"},
+        {"image":"Individual_4.jpg","name":"Journey"},
+        {"image":"Individual_5.jpg","name":"Popple"},
+        {"image":"Term_1.jpg","name":"Term 1"},
+        {"image":"Term_2.jpg","name":"Term 2"},
+        {"image":"Term_3.jpg","name":"Term 3"}
+    ],
+    "term":[
+        {"image":"Term_1.jpg","name":"Term 1"},
+        {"image":"Term_2.jpg","name":"Term 2"},
+        {"image":"Term_3.jpg","name":"Term 3"}],
+ "semester":[
+            {"image":"Semester_1.jpg","name":"Semester 1"},
+            {"image":"Semester_2.jpg","name":"Semester 2"}
+        ]
+}
+}
+
+]
+}
